@@ -1,4 +1,8 @@
 # 문서
 secret.txt
+private.txt
+
 # .env 
 .env
+# 만약 이미 .env를 커밋했다면 .env파일의 추적을 제외시키기 위해 git rm --cached .env 명령어를 입력해 삭제후 다시 커밋해야한다.
+
